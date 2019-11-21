@@ -477,3 +477,17 @@ POST /api/users 200 262 - 62.607 ms
 GET /product 304 - - 23.231 ms
 POST /api/users/authenticate 200 248 - 43.394 ms
 GET /product 304 - - 25.149 ms
+GET /src/icon/flaticon.css 304 - - 9.935 ms
+GET /product 304 - - 46.115 ms
+GET /src/icon/flaticon.css 304 - - 0.720 ms
+GET /src/icon/flaticon.css 304 - - 0.467 ms
+GET /product 304 - - 26.265 ms
+GET /product 304 - - 20.526 ms
+GET /contact 304 - - 22.740 ms
+GET /product 304 - - 25.374 ms
+GET /src/icon/flaticon.css 304 - - 2.107 ms
+GET /product 304 - - 21.676 ms
+GET /src/icon/flaticon.css 304 - - 5.133 ms
+GET /contact 304 - - 22.340 ms
+GET /src/icon/flaticon.css 304 - - 2.021 ms
+GET /product 304 - - 22.014 ms

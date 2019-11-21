@@ -24,10 +24,10 @@ const Navbar = (props) => {
                                         </li>
                                 
                                         <li className="nav-item hover">
-                                            <NavLink className="nav-link" to="/product">Product</NavLink>
+                                            <NavLink className="nav-link" to="/products">Product</NavLink>
                                         </li>
                                         <li className="nav-item hover">
-                                            <NavLink className="nav-link" to="/contact">Contact</NavLink>
+                                            <NavLink className="nav-link" to="/contacts">Contact</NavLink>
                                         </li>
                                         <li className="nav-item hover">
                                             <NavLink className="nav-link" to ="/admin">Admin</NavLink>
@@ -45,10 +45,10 @@ const Navbar = (props) => {
                                     </li>
                             
                                     <li className="nav-item hover">
-                                        <NavLink className="nav-link" to="/product">Product</NavLink>
+                                        <NavLink className="nav-link" to="/products">Product</NavLink>
                                     </li>
                                     <li className="nav-item hover">
-                                        <NavLink className="nav-link" to="/contact">Contact</NavLink>
+                                        <NavLink className="nav-link" to="/contacts">Contact</NavLink>
                                     </li>
                                     <li className="nav-item hover">
                                         <NavLink className="nav-link" to ="/login">Log In</NavLink>

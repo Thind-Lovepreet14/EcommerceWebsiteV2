@@ -27,11 +27,11 @@ const SecondContainer = () => {
                         </a>
                         {/* Image Thumbnails Below Video  */}
                         <div className="d-flex">
-                            <a href="/product" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="woman using dumbbells"
+                            <a href="/products" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="woman using dumbbells"
                                 src="../images/woman_workout.jpg" /> </a>
-                            <a href="/product" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="runner"
+                            <a href="/products" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="runner"
                                 src="../images/pants_thumbnail.jpg" /></a>
-                            <a href="/product" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="yoga"
+                            <a href="/products" className="thumb img"><img height="200" width="200" className="img-fluid img-thumbnail" alt="yoga"
                                 src="../images/woman-apparal-thumbnail.jpg" /></a>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const SecondContainer = () => {
                                 expand human potential. We do that by creating groundbreaking sport innovations, by making
                                 our products more sustainably, by building a creative and diverse global team and by making
                                 a positive impact in communities where we live and work.</p>
-                            <p><a href="/contact" className="btn p-3 btn-joinUs white-text">Join us</a></p>
+                            <p><a href="/contacts" className="btn p-3 btn-joinUs white-text">Join us</a></p>
                         </div>
                     </div>
                 </div>

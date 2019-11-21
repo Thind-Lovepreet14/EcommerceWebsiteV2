@@ -54,9 +54,9 @@ class App extends React.Component {
                 : <Redirect to="/login" />
             }} />
             <Route exact path="/" component={HomePage} />
-            <Route exact path="/product" component={ProductsPage} />
+            <Route exact path="/products" component={ProductsPage} />
             <div className="black">
-              <Route exact path="/contact" component={ContactsPage} />
+              <Route exact path="/contacts" component={ContactsPage} />
             </div>
           </Switch>
           <Footer />
