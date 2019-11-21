@@ -1,4 +1,4 @@
-# E-Commerce Website [Run4It](https://run4it.herokuapp.com/)
+# E-Commerce Website | [Run4It](https://run4it.herokuapp.com/)
 This project is an e-commerce website centered around athletic apparel. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database, that allows a user to filter by product type and price. The contact page has a form that dynamically adds the comment to the comment slider so users can see their comments. React and MongoDB is linked together through Express.
 
 ## Getting Started
