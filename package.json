@@ -15,10 +15,6 @@
     "install": "cd client && npm install",
     "heroku-postbuild": "npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thind-Lovepreet14/EcommerceWebsite.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -45,6 +41,6 @@
     "mocha": "^6.2.0"
   },
   "engines": {
-    "node": "10.16.0"
+    "node": "10.16.3"
   }
 }
