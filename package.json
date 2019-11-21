@@ -13,7 +13,7 @@
     "test": "cd test && mocha",
     "eject": "cd client && npm run start",
     "install": "cd client && npm install",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "cd client && npm run build"
   },
   "keywords": [],
   "author": "",
