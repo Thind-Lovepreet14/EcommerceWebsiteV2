@@ -12,7 +12,8 @@
     "build": "cd client && npm run start",
     "test": "cd test && mocha",
     "eject": "cd client && npm run start",
-    "install": "cd client && npm install"
+    "install": "cd client && npm install",
+    "heroku-postbuild": "npm run build"
   },
   "repository": {
     "type": "git",
